@@ -1,0 +1,19 @@
+{
+  "name": "short-video-backend",
+  "version": "1.0.0",
+  "description": "The short video app backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josecossi89/-short-video-mern-app-backend.git"
+  },
+  "author": "Jose Cossi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josecossi89/-short-video-mern-app-backend/issues"
+  },
+  "homepage": "https://github.com/josecossi89/-short-video-mern-app-backend#readme"
+}
